@@ -1,13 +1,13 @@
 {
   "bitwarden": {
-    "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.2.1/Bitwarden-2026.2.1-amd64.deb",
-    "sha256": "c6bf04c054ac30c88b69cec823634134e51b22f52627ad5a44ac92d634a77167",
-    "version": "2026.2.1"
+    "url": "https://github.com/bitwarden/clients/releases/download/desktop-v2026.8.0/Bitwarden-2026.8.0-amd64.deb",
+    "sha256": "720ecc392eef1992780af2aaabd4733916807155c8ee217ed67f3f93287bb415",
+    "version": "2026.8.0"
   },
   "microsoft-azurevpnclient": {
-    "url": "https://packages.microsoft.com/ubuntu/22.04/prod/pool/main/m/microsoft-azurevpnclient/microsoft-azurevpnclient_3.0.0_amd64.deb",
-    "sha256": "9e5d360433d1d374d9a1051bb29a65103e81ca74ebeaa35155d1f0e9fc94577b",
-    "version": "3.0.0"
+    "url": "https://packages.microsoft.com/ubuntu/22.04/prod/pool/main/m/microsoft-azurevpnclient/microsoft-azurevpnclient_3.1.0_amd64.deb",
+    "sha256": "636c829e1bc8aef3e71adc6c729971bd7c09deab2ccdb82c6c7ce4185b35e861",
+    "version": "3.1.0"
   },
   "surface-cert": {
     "url": "https://github.com/linux-surface/linux-surface/raw/d8887bc8ce14a47d5b9d45f6697f05d53e43fe9a/pkg/keys/surface.cer",
@@ -15,14 +15,14 @@
     "version": "d8887bc8ce14a47d5b9d45f6697f05d53e43fe9a"
   },
   "brew-install": {
-    "url": "https://raw.githubusercontent.com/Homebrew/install/6d5e2670d079/install.sh",
-    "sha256": "dfd5145fe2aa5956a600e35848765273f5798ce6def01bd08ecec088a1268d91",
-    "version": "6d5e2670d079"
+    "url": "https://raw.githubusercontent.com/Homebrew/install/2c31714faddf/install.sh",
+    "sha256": "12479a24be3f5307eecac7cde670fad7118640f031229e964f544b1367b52a41",
+    "version": "2c31714faddf"
   },
   "emdash": {
-    "url": "https://github.com/generalaction/emdash/releases/download/v0.4.45/emdash-amd64.deb",
-    "sha256": "2b777a38fd92a3ef79bbbec984af2b623760afd92a1dfaf4ec9cf503b5c07413",
-    "version": "0.4.45"
+    "url": "https://github.com/generalaction/emdash/releases/download/v1.2.1/emdash-amd64.deb",
+    "sha256": "2041c2524ce167dca4abb9fd6c28efc954a36552abc726d274cd8d25ab24db16",
+    "version": "1.2.1"
   },
   "hotedge": {
     "url": "https://codeload.github.com/frostyard/hotedge/tar.gz/5411c3802803dbaafc6d8014b3a983027dab4704",
