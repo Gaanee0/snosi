@@ -1,7 +1,7 @@
 {
-  "himmelblau": "4.0.0-debian13",
-  "microsoft-edge-stable": "146.0.3856.97-1",
-  "code": "1.114.0-1775036290",
-  "docker-ce": "5:29.3.1-1~debian.13~trixie",
-  "1password-cli": "2.33.1-1"
+  "himmelblau": "5.0.0-debian13~20260905",
+  "microsoft-edge-stable": "152.0.4191.66-1",
+  "code": "1.136.1-1788413865",
+  "docker-ce": "5:29.8.0-1~debian.13~trixie",
+  "1password-cli": "2.39.0-1"
 }
