@@ -1,5 +1,5 @@
-microsoft-edge-stable=146.0.3856.97-1
-code=1.114.0-1775036290
-docker-ce=5:29.3.1-1~debian.13~trixie
-1password-cli=2.33.1-1
-himmelblau=4.0.0-debian13
+microsoft-edge-stable=158.0.4370.45-1
+code=1.148.0-1795526052
+docker-ce=5:29.10.1-1~debian.13~trixie
+1password-cli=2.42.0-1
+himmelblau=5.0.0-debian13~20261124
